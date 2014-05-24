@@ -81,7 +81,7 @@ body {
   background-color: black; }
   .teaserimage .teaserimage-image {
     background-size: cover;
-    background-position: center;
+    /* background-position: center; */
     position: absolute;
     top: 0;
     left: 0;
